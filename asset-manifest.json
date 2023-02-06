@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.a6b5aa4c.css",
-    "main.js": "/static/js/main.8170c140.js",
+    "main.js": "/static/js/main.af958151.js",
     "static/js/787.2d27c25f.chunk.js": "/static/js/787.2d27c25f.chunk.js",
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
     "static/media/steiner-premium-regular.ttf": "/static/media/steiner-premium-regular.8a51901f0476377668de.ttf",
     "static/media/NFTImages.png": "/static/media/NFTImages.cd0a8c5dd3abe2784bc0.png",
     "index.html": "/index.html",
     "main.a6b5aa4c.css.map": "/static/css/main.a6b5aa4c.css.map",
-    "main.8170c140.js.map": "/static/js/main.8170c140.js.map",
+    "main.af958151.js.map": "/static/js/main.af958151.js.map",
     "787.2d27c25f.chunk.js.map": "/static/js/787.2d27c25f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b5aa4c.css",
-    "static/js/main.8170c140.js"
+    "static/js/main.af958151.js"
   ]
 }
